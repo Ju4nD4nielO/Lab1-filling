@@ -1,0 +1,10 @@
+# Archivos compilados de Rust
+/target/
+
+# Archivos temporales del editor
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
