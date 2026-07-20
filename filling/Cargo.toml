@@ -8,3 +8,4 @@ opt-level = 3
 debuf = false
 
 [dependencies]
+image = { version = "0.24", default-features = false, features = ["png"] }

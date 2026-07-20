@@ -1,5 +1,6 @@
 # Archivos compilados de Rust
-/target/
+target/
+**/target/
 
 # Archivos temporales del editor
 .vscode/
